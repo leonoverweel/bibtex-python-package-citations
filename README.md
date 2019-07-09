@@ -86,6 +86,23 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
+### OpenCV BibTeX citation
+
+```bibtex
+@article{opencv_library,
+  author = {Bradski, G.},
+  citeulike-article-id = {2236121},
+  journal = {Dr. Dobb's Journal of Software Tools},
+  keywords = {bibtex-import},
+  posted-at = {2008-01-15 19:21:54},
+  priority = {4},
+  title = {{The OpenCV Library}},
+  year = {2000}
+}
+```
+
+([source](https://github.com/opencv/opencv/wiki/CiteOpenCV))
+
 ### Pandas BibTeX citation
 
 ```bibtex
