@@ -16,11 +16,11 @@ The following is based on [this email by Steven D'Aprano](https://mail.python.or
 
 ```bibtex
 @manual{python,
-  title = {{Python: A dynamic, open source programming language}},
-  author = {{Python Core Team}},
-  organization = {{Python Software Foundation}},
-  year = {2019},
-  url = {https://www.python.org/},
+  title={{Python: A dynamic, open source programming language}},
+  author={{Python Core Team}},
+  organization={{Python Software Foundation}},
+  year={2019},
+  url={https://www.python.org/},
 }
 ```
 
@@ -28,12 +28,12 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 ```bibtex
 @manual{python37,
-  title = {{Python: A dynamic, open source programming language}},
-  author = {{Python Core Team}},
-  organization = {{Python Software Foundation}},
-  year = {2019},
-  url = {https://www.python.org/},
-  note = {Python version 3.7}
+  title={{Python: A dynamic, open source programming language}},
+  author={{Python Core Team}},
+  organization={{Python Software Foundation}},
+  year={2019},
+  url={https://www.python.org/},
+  note={Python version 3.7}
 }
 ```
 
@@ -62,12 +62,12 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ```bibtex
 @misc{numpy,
-  author = {Travis Oliphant},
-  title = {{NumPy}: A guide to {NumPy}},
-  year = {2006--},
-  howpublished = {USA: Trelgol Publishing},
-  url = "http://www.numpy.org/",
-  note = {[Online; accessed <today>]}
+  author={Travis Oliphant},
+  title={{NumPy}: A guide to {NumPy}},
+  year={2006--},
+  howpublished={USA: Trelgol Publishing},
+  url="http://www.numpy.org/",
+  note={[Online; accessed <today>]}
 }
 ```
 
@@ -77,12 +77,12 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ```bibtex
 @inproceedings{pandas,
-  author = {Wes McKinney},
+  author={Wes McKinney},
   title= {Data Structures for Statistical Computing in Python},
-  booktitle = {Proceedings of the 9th Python in Science Conference},
-  pages = {51 - 56},
-  year = {2010},
-  editor = {St\'efan van der Walt and Jarrod Millman}
+  booktitle={Proceedings of the 9th Python in Science Conference},
+  pages={51 - 56},
+  year={2010},
+  editor={St\'efan van der Walt and Jarrod Millman}
 }
 ```
 
@@ -105,11 +105,11 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ```bibtex
 @misc{scipy,
-  author = {Eric Jones and Travis Oliphant and Pearu Peterson and others},
-  title = {{SciPy}: Open source scientific tools for {Python}},
-  year = {2001--},
-  url = "http://www.scipy.org/",
-  note = {[Online; accessed <today>]}
+  author={Eric Jones and Travis Oliphant and Pearu Peterson and others},
+  title={{SciPy}: Open source scientific tools for {Python}},
+  year={2001--},
+  url="http://www.scipy.org/",
+  note={[Online; accessed <today>]}
 }
 ```
 
