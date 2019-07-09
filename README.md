@@ -34,3 +34,21 @@ It may also be a good idea to add the specific version of Python, for example fo
   note = {Python version 3.7}
 }
 ```
+
+# Packages
+
+Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
+
+### SciPy
+
+```scipy
+@misc{scipy,
+  author = {Eric Jones and Travis Oliphant and Pearu Peterson and others},
+  title = {{SciPy}: Open source scientific tools for {Python}},
+  year = {2001--},
+  url = "http://www.scipy.org/",
+  note = {[Online; accessed <today>]}
+}
+```
+
+([source](https://www.scipy.org/citing.html))
