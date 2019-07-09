@@ -66,8 +66,8 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}
 }
 ```
-([source
-](https://stanfordnlp.github.io/CoreNLP/citing.html))
+
+([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
 
 ### Keras BibTeX citation
 
@@ -98,6 +98,8 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ```
 
 ([source](https://www.scipy.org/citing.html))
+
+See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.html))
 
 ### NLTK BibTeX citation
 
