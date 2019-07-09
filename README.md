@@ -9,7 +9,7 @@ If you spot a mistake or know of another citation that you think should be on th
 
 # Citations
 
-## Python
+## Python BibTeX citation
 
 Bit of discussion around this online (see [this StackOverflow thread](https://academia.stackexchange.com/questions/5482/how-do-i-reference-the-python-programming-language-in-a-thesis-or-a-paper)).
 The following is based on [this email by Steven D'Aprano](https://mail.python.org/pipermail/tutor/2016-March/108473.html).
@@ -41,7 +41,7 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
-### Matplotlib
+### Matplotlib BibTeX citation
 
 ```bibtex
 @article{matplotlib,
@@ -58,7 +58,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
-### NumPy
+### NumPy BibTeX citation
 
 ```bibtex
 @misc{numpy,
@@ -73,7 +73,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
-### Pandas
+### Pandas BibTeX citation
 
 ```bibtex
 @inproceedings{pandas,
@@ -88,7 +88,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://github.com/pandas-dev/pandas/issues/24036))
 
-### PyTorch
+### PyTorch BibTeX citation
 
 ```bibtex
 @inproceedings{pytorch,
@@ -101,7 +101,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://github.com/pytorch/pytorch/issues/4126))
 
-### scikit-learn
+### scikit-learn BibTeX citation
 
 ```bibtex
 @article{scikit-learn,
@@ -133,7 +133,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://scikit-learn.org/stable/about.html))
 
-### SciPy
+### SciPy BibTeX citation
 
 ```bibtex
 @misc{scipy,
@@ -147,7 +147,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
-### TensorFlow
+### TensorFlow BibTeX citation
 
 ```bibtex
 @misc{tensorflow,
