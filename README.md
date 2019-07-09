@@ -39,9 +39,24 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### Pandas
+
+```bibtex
+@inproceedings{pandas,
+  author = {Wes McKinney},
+  title= {Data Structures for Statistical Computing in Python},
+  booktitle = {Proceedings of the 9th Python in Science Conference},
+  pages = {51 - 56},
+  year = {2010},
+  editor = {St\'efan van der Walt and Jarrod Millman}
+}
+```
+
+([source](https://github.com/pandas-dev/pandas/issues/24036))
+
 ### SciPy
 
-```scipy
+```bibtex
 @misc{scipy,
   author = {Eric Jones and Travis Oliphant and Pearu Peterson and others},
   title = {{SciPy}: Open source scientific tools for {Python}},
