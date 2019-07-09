@@ -7,7 +7,9 @@ Hopefully this repository will be the first step towards making that easier.
 I'm using this page to collect **the most official citations I can find for common (machine learning) Python packages.**
 If you spot a mistake or know of another citation that you think should be on this page, please open an issue or PR!
 
-# Python
+# Citations
+
+## Python
 
 Bit of discussion around this online (see [this StackOverflow thread](https://academia.stackexchange.com/questions/5482/how-do-i-reference-the-python-programming-language-in-a-thesis-or-a-paper)).
 The following is based on [this email by Steven D'Aprano](https://mail.python.org/pipermail/tutor/2016-March/108473.html).
@@ -35,9 +37,26 @@ It may also be a good idea to add the specific version of Python, for example fo
 }
 ```
 
-# Packages
+## Packages
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
+
+### Matplotlib
+
+```bibtex
+@article{matplotlib,
+  title={Matplotlib: A 2D graphics environment},
+  author={Hunter, John D},
+  journal={Computing in science \& engineering},
+  volume={9},
+  number={3},
+  pages={90},
+  year={2007},
+  publisher={IEEE Computer Society}
+}
+```
+
+([source](https://www.scipy.org/citing.html))
 
 ### NumPy
 
@@ -82,3 +101,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ```
 
 ([source](https://www.scipy.org/citing.html))
+
+# Credits
+
+Many citations come from the [SciPy citing guide](https://www.scipy.org/citing.html) (which doesn't have BibTeX entries for most citations).
