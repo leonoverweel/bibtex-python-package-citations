@@ -157,7 +157,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 }
 ```
 
-([source](https://github.com/pandas-dev/pandas/issues/24036))
+([source](https://pandas.pydata.org/talks.html))
 
 ### PyTorch BibTeX citation
 
