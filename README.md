@@ -1,4 +1,4 @@
-# BibTeX Citations for Python Package
+# BibTeX Citations for Python Packages
 
 If you're writing a paper, it's important to [acknowledge the software engineers who make your scientific contributions possible](https://colah.github.io/posts/2019-05-Collaboration/).
 For software and packages, I've found it much harder to find BibTeX citations I can simply copy-paste into my `references.bib` than it is for papers.
