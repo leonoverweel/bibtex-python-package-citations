@@ -39,6 +39,21 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### NumPy
+
+```bibtex
+@misc{numpy,
+  author = {Travis Oliphant},
+  title = {{NumPy}: A guide to {NumPy}},
+  year = {2006--},
+  howpublished = {USA: Trelgol Publishing},
+  url = "http://www.numpy.org/",
+  note = {[Online; accessed <today>]}
+}
+```
+
+([source](https://www.scipy.org/citing.html))
+
 ### Pandas
 
 ```bibtex
