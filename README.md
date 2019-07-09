@@ -41,6 +41,16 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### Keras BibTeX citation
+
+```bibtex
+@misc{chollet2015keras,
+  title={Keras},
+  author={Chollet, Fran{\c{c}}ois and others},
+  year={2015}
+}
+```
+
 ### Matplotlib BibTeX citation
 
 ```bibtex
