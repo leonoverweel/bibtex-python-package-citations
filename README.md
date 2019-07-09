@@ -44,15 +44,14 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### Caffe BibTeX citation
 
 ```bibtex
-@inproceedings{jia2014caffe,
-  title={Caffe: Convolutional architecture for fast feature embedding},
-  author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
-  booktitle={Proceedings of the 22nd ACM international conference on Multimedia},
-  pages={675--678},
-  year={2014},
-  organization={ACM}
+@article{jia2014caffe,
+  Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  Journal = {arXiv preprint arXiv:1408.5093},
+  Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+  Year = {2014}
 }
 ```
+([source](https://caffe.berkeleyvision.org/))
 
 ### CoreNLP BibTeX citation
 
@@ -66,16 +65,20 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}
 }
 ```
+([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
 
 ### Keras BibTeX citation
 
 ```bibtex
 @misc{chollet2015keras,
   title={Keras},
-  author={Chollet, Fran{\c{c}}ois and others},
-  year={2015}
+  author={Chollet, Fran\c{c}ois and others},
+  year={2015},
+  howpublished={\url{https://keras.io}},
 }
 ```
+
+([source](https://keras.io/getting-started/faq/))
 
 ### Matplotlib BibTeX citation
 
@@ -266,21 +269,25 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 }
 ```
 
+([source](https://www.tensorflow.org/about/bib))
+
 ### Theano BibTeX citation
 
 ```bibtex
-@inproceedings{bergstra2010theano,
-  title={Theano: a CPU and GPU math expression compiler},
-  author={Bergstra, James and Breuleux, Olivier and Bastien, Fr{\'e}d{\'e}ric and Lamblin, Pascal and Pascanu, Razvan and Desjardins, Guillaume and Turian, Joseph and Warde-Farley, David and Bengio, Yoshua},
-  booktitle={Proceedings of the Python for scientific computing conference (SciPy)},
-  volume={4},
-  number={3},
-  year={2010},
-  organization={Austin, TX}
+@ARTICLE{2016arXiv160502688short,
+   author = {{Theano Development Team}},
+    title = "{Theano: A {Python} framework for fast computation of mathematical expressions}",
+  journal = {arXiv e-prints},
+   volume = {abs/1605.02688},
+ primaryClass = "cs.SC",
+ keywords = {Computer Science - Symbolic Computation, Computer Science - Learning, Computer Science - Mathematical Software},
+     year = 2016,
+    month = may,
+      url = {http://arxiv.org/abs/1605.02688},
 }
 ```
 
-([source](https://www.tensorflow.org/about/bib))
+([source](http://deeplearning.net/software/theano/citation.html))
 
 # Credits
 
