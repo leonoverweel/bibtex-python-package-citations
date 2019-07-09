@@ -41,6 +41,19 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### CoreNLP BibTeX citation
+
+```bibtex
+@InProceedings{manning-EtAl:2014:P14-5,
+  author    = {Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},
+  title     = {The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
+  booktitle = {Association for Computational Linguistics (ACL) System Demonstrations},
+  year      = {2014},
+  pages     = {55--60},
+  url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}
+}
+```
+
 ### Keras BibTeX citation
 
 ```bibtex
