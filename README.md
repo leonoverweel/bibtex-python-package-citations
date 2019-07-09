@@ -14,11 +14,11 @@ The following is based on [this email by Steven D'Aprano](https://mail.python.or
 
 ```bibtex
 @manual{python,
-    title = {{Python: A dynamic, open source programming language}},
-    author = {{Python Core Team}},
-    organization = {{Python Software Foundation}},
-    year = {2019},
-    url = {https://www.python.org/},
+  title = {{Python: A dynamic, open source programming language}},
+  author = {{Python Core Team}},
+  organization = {{Python Software Foundation}},
+  year = {2019},
+  url = {https://www.python.org/},
 }
 ```
 
@@ -26,11 +26,11 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 ```bibtex
 @manual{python37,
-    title = {{Python: A dynamic, open source programming language}},
-    author = {{Python Core Team}},
-    organization = {{Python Software Foundation}},
-    year = {2019},
-    url = {https://www.python.org/},
-    note = {Python version 3.7}
+  title = {{Python: A dynamic, open source programming language}},
+  author = {{Python Core Team}},
+  organization = {{Python Software Foundation}},
+  year = {2019},
+  url = {https://www.python.org/},
+  note = {Python version 3.7}
 }
 ```
