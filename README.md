@@ -102,15 +102,15 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### NLTK BibTeX citation
 
 ```bibtex
-@inprocedings{nltk,
-    author={Edward Loper and Steven Bird},
-    title={NLTK: The Natural Language Toolkit},
-    booktitle={In Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching Natural Language Processing and Computational Linguistics. Philadelphia: Association for Computational Linguistics},
-    year={2002}
+@book{nltk,
+      title={Natural Language Processing with Python},
+      author={Bird, Steven, Edward Loper and Ewan Klein},
+      year={2009},
+      publisher={O'Reilly Media Inc.}
 }
 ```
 
-([source](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.585))
+([source](https://www.nltk.org/))
 
 ### NumPy BibTeX citation
 
