@@ -13,11 +13,24 @@ Bit of discussion around this online (see [this StackOverflow thread](https://ac
 The following is based on [this email by Steven D'Aprano](https://mail.python.org/pipermail/tutor/2016-March/108473.html).
 
 ```bibtex
-@Manual{,
+@manual{python,
     title = {{Python: A dynamic, open source programming language}},
     author = {{Python Core Team}},
     organization = {{Python Software Foundation}},
     year = {2019},
     url = {https://www.python.org/},
+}
+```
+
+It may also be a good idea to add the specific version of Python, for example for 3.7:
+
+```bibtex
+@manual{python37,
+    title = {{Python: A dynamic, open source programming language}},
+    author = {{Python Core Team}},
+    organization = {{Python Software Foundation}},
+    year = {2019},
+    url = {https://www.python.org/},
+    note = {Python version 3.7}
 }
 ```
