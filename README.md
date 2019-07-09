@@ -162,15 +162,15 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### PyTorch BibTeX citation
 
 ```bibtex
-@inproceedings{pytorch,
-  title={Automatic differentiation in PyTorch},
+@inproceedings{paszke2017automatic,
+  title={Automatic Differentiation in {PyTorch}},
   author={Paszke, Adam and Gross, Sam and Chintala, Soumith and Chanan, Gregory and Yang, Edward and DeVito, Zachary and Lin, Zeming and Desmaison, Alban and Antiga, Luca and Lerer, Adam},
-  booktitle={NIPS-W},
+  booktitle={NIPS Autodiff Workshop},
   year={2017}
 }
 ```
 
-([source](https://github.com/pytorch/pytorch/issues/4126))
+([source](https://github.com/pytorch/pytorch/blob/master/CITATION))
 
 ### scikit-learn BibTeX citation
 
