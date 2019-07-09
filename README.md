@@ -41,6 +41,19 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### Caffe BibTeX citation
+
+```bibtex
+@inproceedings{jia2014caffe,
+  title={Caffe: Convolutional architecture for fast feature embedding},
+  author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  booktitle={Proceedings of the 22nd ACM international conference on Multimedia},
+  pages={675--678},
+  year={2014},
+  organization={ACM}
+}
+```
+
 ### CoreNLP BibTeX citation
 
 ```bibtex
