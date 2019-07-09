@@ -253,6 +253,20 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 }
 ```
 
+### Theano BibTeX citation
+
+```bibtex
+@inproceedings{bergstra2010theano,
+  title={Theano: a CPU and GPU math expression compiler},
+  author={Bergstra, James and Breuleux, Olivier and Bastien, Fr{\'e}d{\'e}ric and Lamblin, Pascal and Pascanu, Razvan and Desjardins, Guillaume and Turian, Joseph and Warde-Farley, David and Bengio, Yoshua},
+  booktitle={Proceedings of the Python for scientific computing conference (SciPy)},
+  volume={4},
+  number={3},
+  year={2010},
+  organization={Austin, TX}
+}
+```
+
 ([source](https://www.tensorflow.org/about/bib))
 
 # Credits
