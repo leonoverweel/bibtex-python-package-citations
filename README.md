@@ -58,6 +58,19 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
+### NLTK BibTeX citation
+
+```bibtex
+@inprocedings{nltk,
+    author={Edward Loper and Steven Bird},
+    title={NLTK: The Natural Language Toolkit},
+    booktitle={In Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching Natural Language Processing and Computational Linguistics. Philadelphia: Association for Computational Linguistics},
+    year={2002}
+}
+```
+
+([source](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.585))
+
 ### NumPy BibTeX citation
 
 ```bibtex
