@@ -51,6 +51,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   Year = {2014}
 }
 ```
+
 ([source](https://caffe.berkeleyvision.org/))
 
 ### CoreNLP BibTeX citation
@@ -65,7 +66,8 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}
 }
 ```
-([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
+([source
+](https://stanfordnlp.github.io/CoreNLP/citing.html))
 
 ### Keras BibTeX citation
 
