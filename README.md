@@ -44,7 +44,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### Caffe BibTeX citation
 
 ```bibtex
-@article{jia2014caffe,
+@article{caffe,
   Author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
   Journal={arXiv preprint arXiv:1408.5093},
   Title={Caffe: Convolutional Architecture for Fast Feature Embedding},
@@ -57,7 +57,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### CoreNLP BibTeX citation
 
 ```bibtex
-@InProceedings{manning-EtAl:2014:P14-5,
+@InProceedings{corenlp,
   author={Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},
   title={The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
   booktitle={Association for Computational Linguistics (ACL) System Demonstrations},
@@ -72,7 +72,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### Keras BibTeX citation
 
 ```bibtex
-@misc{chollet2015keras,
+@misc{keras,
   title={Keras},
   author={Chollet, Fran\c{c}ois and others},
   year={2015},
@@ -132,7 +132,7 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### OpenCV BibTeX citation
 
 ```bibtex
-@article{opencv_library,
+@article{opencv,
   author={Bradski, G.},
   citeulike-article-id={2236121},
   journal={Dr. Dobb's Journal of Software Tools},
@@ -164,7 +164,7 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### PyTorch BibTeX citation
 
 ```bibtex
-@inproceedings{paszke2017automatic,
+@inproceedings{pytorch,
   title={Automatic Differentiation in {PyTorch}},
   author={Paszke, Adam and Gross, Sam and Chintala, Soumith and Chanan, Gregory and Yang, Edward and DeVito, Zachary and Lin, Zeming and Desmaison, Alban and Antiga, Luca and Lerer, Adam},
   booktitle={NIPS Autodiff Workshop},
@@ -278,7 +278,7 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### Theano BibTeX citation
 
 ```bibtex
-@ARTICLE{2016arXiv160502688short,
+@ARTICLE{theano,
   author={{Theano Development Team}},
   title="{Theano: A {Python} framework for fast computation of mathematical expressions}",
   journal={arXiv e-prints},
