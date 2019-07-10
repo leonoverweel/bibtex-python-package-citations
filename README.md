@@ -278,7 +278,7 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### Theano BibTeX citation
 
 ```bibtex
-@ARTICLE{theano,
+@article{theano,
   author={{Theano Development Team}},
   title="{Theano: A {Python} framework for fast computation of mathematical expressions}",
   journal={arXiv e-prints},
@@ -292,6 +292,20 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ```
 
 ([source](http://deeplearning.net/software/theano/citation.html))
+
+### Torchbearer BibTeX citation
+
+```bibtex
+@article{torchbearer,
+  author={Ethan Harris and Matthew Painter and Jonathon Hare},
+  title={Torchbearer: A Model Fitting Library for PyTorch},
+  journal={arXiv preprint arXiv:1809.03363},
+  year={2018}
+}
+```
+
+([source](https://github.com/leonoverweel/bibtex-python-package-citations/issues/1))
+
 
 # Acknowledgements
 
