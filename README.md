@@ -293,6 +293,8 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 
 ([source](http://deeplearning.net/software/theano/citation.html))
 
-# Credits
+# Acknowledgements
 
 Many citations come from the [SciPy citing guide](https://www.scipy.org/citing.html) (which doesn't have BibTeX entries for most citations).
+
+Thanks to [Lynn (Tristan) Pepin](https://github.com/tpepin96/) for adding lots of citations to this page!
