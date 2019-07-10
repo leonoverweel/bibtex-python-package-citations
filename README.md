@@ -45,10 +45,10 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ```bibtex
 @article{jia2014caffe,
-  Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
-  Journal = {arXiv preprint arXiv:1408.5093},
-  Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
-  Year = {2014}
+  Author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  Journal={arXiv preprint arXiv:1408.5093},
+  Title={Caffe: Convolutional Architecture for Fast Feature Embedding},
+  Year={2014}
 }
 ```
 
@@ -58,12 +58,12 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ```bibtex
 @InProceedings{manning-EtAl:2014:P14-5,
-  author    = {Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},
-  title     = {The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
-  booktitle = {Association for Computational Linguistics (ACL) System Demonstrations},
-  year      = {2014},
-  pages     = {55--60},
-  url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}
+  author={Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},
+  title={The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
+  booktitle={Association for Computational Linguistics (ACL) System Demonstrations},
+  year={2014},
+  pages={55--60},
+  url={http://www.aclweb.org/anthology/P/P14/P14-5010}
 }
 ```
 
@@ -105,10 +105,10 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 
 ```bibtex
 @book{nltk,
-      title={Natural Language Processing with Python},
-      author={Bird, Steven, Edward Loper and Ewan Klein},
-      year={2009},
-      publisher={O'Reilly Media Inc.}
+  title={Natural Language Processing with Python},
+  author={Bird, Steven, Edward Loper and Ewan Klein},
+  year={2009},
+  publisher={O'Reilly Media Inc.}
 }
 ```
 
@@ -133,14 +133,14 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 
 ```bibtex
 @article{opencv_library,
-  author = {Bradski, G.},
-  citeulike-article-id = {2236121},
-  journal = {Dr. Dobb's Journal of Software Tools},
-  keywords = {bibtex-import},
-  posted-at = {2008-01-15 19:21:54},
-  priority = {4},
-  title = {{The OpenCV Library}},
-  year = {2000}
+  author={Bradski, G.},
+  citeulike-article-id={2236121},
+  journal={Dr. Dobb's Journal of Software Tools},
+  keywords={bibtex-import},
+  posted-at={2008-01-15 19:21:54},
+  priority={4},
+  title={{The OpenCV Library}},
+  year={2000}
 }
 ```
 
@@ -279,15 +279,15 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 
 ```bibtex
 @ARTICLE{2016arXiv160502688short,
-   author = {{Theano Development Team}},
-    title = "{Theano: A {Python} framework for fast computation of mathematical expressions}",
-  journal = {arXiv e-prints},
-   volume = {abs/1605.02688},
- primaryClass = "cs.SC",
- keywords = {Computer Science - Symbolic Computation, Computer Science - Learning, Computer Science - Mathematical Software},
-     year = 2016,
-    month = may,
-      url = {http://arxiv.org/abs/1605.02688},
+  author={{Theano Development Team}},
+  title="{Theano: A {Python} framework for fast computation of mathematical expressions}",
+  journal={arXiv e-prints},
+  volume={abs/1605.02688},
+  primaryClass="cs.SC",
+  keywords={Computer Science - Symbolic Computation, Computer Science - Learning, Computer Science - Mathematical Software},
+  year=2016,
+  month=may,
+  url={http://arxiv.org/abs/1605.02688},
 }
 ```
 
