@@ -41,6 +41,47 @@ It may also be a good idea to add the specific version of Python, for example fo
 
 Packages are listed alphabetically. If this list grows too long, maybe we can add categories.
 
+### Caffe BibTeX citation
+
+```bibtex
+@article{caffe,
+  Author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  Journal={arXiv preprint arXiv:1408.5093},
+  Title={Caffe: Convolutional Architecture for Fast Feature Embedding},
+  Year={2014}
+}
+```
+
+([source](https://caffe.berkeleyvision.org/))
+
+### CoreNLP BibTeX citation
+
+```bibtex
+@InProceedings{corenlp,
+  author={Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},
+  title={The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
+  booktitle={Association for Computational Linguistics (ACL) System Demonstrations},
+  year={2014},
+  pages={55--60},
+  url={http://www.aclweb.org/anthology/P/P14/P14-5010}
+}
+```
+
+([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
+
+### Keras BibTeX citation
+
+```bibtex
+@misc{keras,
+  title={Keras},
+  author={Chollet, Fran\c{c}ois and others},
+  year={2015},
+  howpublished={\url{https://keras.io}},
+}
+```
+
+([source](https://keras.io/getting-started/faq/))
+
 ### Matplotlib BibTeX citation
 
 ```bibtex
@@ -58,18 +99,20 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://www.scipy.org/citing.html))
 
+See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.html))
+
 ### NLTK BibTeX citation
 
 ```bibtex
-@inprocedings{nltk,
-    author={Edward Loper and Steven Bird},
-    title={NLTK: The Natural Language Toolkit},
-    booktitle={In Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching Natural Language Processing and Computational Linguistics. Philadelphia: Association for Computational Linguistics},
-    year={2002}
+@book{nltk,
+  title={Natural Language Processing with Python},
+  author={Bird, Steven, Edward Loper and Ewan Klein},
+  year={2009},
+  publisher={O'Reilly Media Inc.}
 }
 ```
 
-([source](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.585))
+([source](https://www.nltk.org/))
 
 ### NumPy BibTeX citation
 
@@ -89,15 +132,15 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### OpenCV BibTeX citation
 
 ```bibtex
-@article{opencv_library,
-  author = {Bradski, G.},
-  citeulike-article-id = {2236121},
-  journal = {Dr. Dobb's Journal of Software Tools},
-  keywords = {bibtex-import},
-  posted-at = {2008-01-15 19:21:54},
-  priority = {4},
-  title = {{The OpenCV Library}},
-  year = {2000}
+@article{opencv,
+  author={Bradski, G.},
+  citeulike-article-id={2236121},
+  journal={Dr. Dobb's Journal of Software Tools},
+  keywords={bibtex-import},
+  posted-at={2008-01-15 19:21:54},
+  priority={4},
+  title={{The OpenCV Library}},
+  year={2000}
 }
 ```
 
@@ -116,20 +159,20 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 }
 ```
 
-([source](https://github.com/pandas-dev/pandas/issues/24036))
+([source](https://pandas.pydata.org/talks.html))
 
 ### PyTorch BibTeX citation
 
 ```bibtex
 @inproceedings{pytorch,
-  title={Automatic differentiation in PyTorch},
+  title={Automatic Differentiation in {PyTorch}},
   author={Paszke, Adam and Gross, Sam and Chintala, Soumith and Chanan, Gregory and Yang, Edward and DeVito, Zachary and Lin, Zeming and Desmaison, Alban and Antiga, Luca and Lerer, Adam},
-  booktitle={NIPS-W},
+  booktitle={NIPS Autodiff Workshop},
   year={2017}
 }
 ```
 
-([source](https://github.com/pytorch/pytorch/issues/4126))
+([source](https://github.com/pytorch/pytorch/blob/master/CITATION))
 
 ### scikit-learn BibTeX citation
 
@@ -231,6 +274,24 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ```
 
 ([source](https://www.tensorflow.org/about/bib))
+
+### Theano BibTeX citation
+
+```bibtex
+@ARTICLE{theano,
+  author={{Theano Development Team}},
+  title="{Theano: A {Python} framework for fast computation of mathematical expressions}",
+  journal={arXiv e-prints},
+  volume={abs/1605.02688},
+  primaryClass="cs.SC",
+  keywords={Computer Science - Symbolic Computation, Computer Science - Learning, Computer Science - Mathematical Software},
+  year=2016,
+  month=may,
+  url={http://arxiv.org/abs/1605.02688},
+}
+```
+
+([source](http://deeplearning.net/software/theano/citation.html))
 
 # Credits
 
