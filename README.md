@@ -101,6 +101,25 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.html))
 
+### MLxtend BibTeX citation
+
+```bibtex
+@article{mlxtend,
+  author={Sebastian Raschka},
+  title={MLxtend: Providing machine learning and data science utilities and extensions to Python’s scientific computing stack},
+  journal={The Journal of Open Source Software},
+  volume={3},
+  number={24},
+  month=apr,
+  year=2018,
+  publisher={The Open Journal},
+  doi={10.21105/joss.00638},
+  url={http://joss.theoj.org/papers/10.21105/joss.00638}
+}
+```
+
+([source](http://rasbt.github.io/mlxtend/))
+
 ### NLTK BibTeX citation
 
 ```bibtex
