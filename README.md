@@ -7,8 +7,6 @@ Hopefully this repository will be the first step towards making that easier.
 I'm using this page to collect **the most official citations I can find for common (machine learning) Python packages.**
 If you spot a mistake or know of another citation that you think should be on this page, please open an issue or PR!
 
-(Tip: to find the documentation PDF of any LaTeX package, go to texdoc.net/pkg/{package-name}.)
-
 # Citations
 
 ## Python BibTeX citation
@@ -335,3 +333,5 @@ Many citations come from the [SciPy citing guide](https://www.scipy.org/citing.h
 If this resource was useful to you, please consider checking the following as well:
 * [Dynamically Typed](https://dynamicallytyped.com/): My thoughts and links on productized artificial intelligence, machine learning technology, and the tech/startup industry. Delivered to your inbox every second Sunday.
 * [Machine Learning Resources](https://www.notion.so/adab36fecaea4306880898f41dcb9cb3): Machine learning resources featured in the Quick ML Resource Links section of Dynamically Typed. Updated with new resources every second Sunday!
+
+(Random additional tip: to find the documentation PDF of any LaTeX package, go to texdoc.net/pkg/{package-name}.)
