@@ -69,6 +69,25 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
 
+### gensim BibTeX citation
+
+```bibtex
+@inproceedings{rehurek_lrec,
+  title = {{Software Framework for Topic Modelling with Large Corpora}},
+  author = {Radim {\v R}eh{\r u}{\v r}ek and Petr Sojka},
+  booktitle = {{Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks}},
+  pages = {45--50},
+  year = 2010,
+  month = May,
+  day = 22,
+  publisher = {ELRA},
+  address = {Valletta, Malta},
+  note={\url{http://is.muni.cz/publication/884893/en}},
+  language={English}
+}
+```
+([source](https://radimrehurek.com/gensim/about.html))
+
 ### Keras BibTeX citation
 
 ```bibtex
