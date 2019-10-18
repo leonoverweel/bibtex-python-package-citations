@@ -101,6 +101,27 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://keras.io/getting-started/faq/))
 
+### Larq BibTeX citation
+
+```bibtex
+@misc{larq,
+  author={
+    Geiger, Lukas
+    and Widdicombe, James
+    and Bakhtiari, Arash
+    and Helwegen, Koen
+    and Heuss, Maria
+    and Nusselder, Roeland
+  },
+  title={Larq: An Open-Source Deep Learning Library for Training Binarized Neural Networks},
+  howpublished={Web page},
+  url={https://larq.dev},
+  year={2019}
+}
+```
+
+([Source](https://larq.dev/faq/#how-can-i-cite-larq))
+
 ### Matplotlib BibTeX citation
 
 ```bibtex
