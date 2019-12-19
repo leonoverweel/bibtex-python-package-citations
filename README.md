@@ -69,6 +69,22 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ([source](https://stanfordnlp.github.io/CoreNLP/citing.html))
 
+### fastai BibTeX citation
+
+```
+@misc{fastai,
+  author={
+    Howard, Jeremy
+    and Gugger, Sylvain
+  },
+  title={fastai: A layered API for deep learning},
+  journal={Information (Special Issue)}
+  url={fast.ai},
+  year={2019}
+}
+```
+([source](https://www.mdpi.com/journal/information/special_issues/ML_Python))
+
 ### gensim BibTeX citation
 
 ```bibtex
