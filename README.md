@@ -120,19 +120,18 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 ### Larq BibTeX citation
 
 ```bibtex
-@misc{larq,
-  author={
-    Geiger, Lukas
-    and Widdicombe, James
-    and Bakhtiari, Arash
-    and Helwegen, Koen
-    and Heuss, Maria
-    and Nusselder, Roeland
-  },
-  title={Larq: An Open-Source Deep Learning Library for Training Binarized Neural Networks},
-  howpublished={Web page},
-  url={https://larq.dev},
-  year={2019}
+@article{larq,
+  doi={10.21105/joss.01746},
+  url={https://doi.org/10.21105/joss.01746},
+  year={2020},
+  month=jan,
+  publisher={The Open Journal},
+  volume={5},
+  number={45},
+  pages={1746},
+  author={Lukas Geiger and Plumerai Team},
+  title={Larq: An Open-Source Library for Training Binarized Neural Networks},
+  journal={Journal of Open Source Software}
 }
 ```
 
