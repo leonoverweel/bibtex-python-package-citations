@@ -283,12 +283,49 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### SciPy BibTeX citation
 
 ```bibtex
-@misc{scipy,
-  author={Eric Jones and Travis Oliphant and Pearu Peterson and others},
-  title={{SciPy}: Open source scientific tools for {Python}},
-  year={2001--},
-  url="http://www.scipy.org/",
-  note={[Online; accessed <today>]}
+@article{scipy,
+  author={
+    {Virtanen}, Pauli and
+    {Gommers}, Ralf and
+    {Oliphant}, Travis E. and
+    {Haberland}, Matt and
+    {Reddy}, Tyler and
+    {Cournapeau}, David and
+    {Burovski}, Evgeni and
+    {Peterson}, Pearu and
+    {Weckesser}, Warren and
+    {Bright}, Jonathan and
+    {van der Walt}, St{\'e}fan J. and
+    {Brett}, Matthew and
+    {Wilson}, Joshua and
+    {Jarrod Millman}, K. and
+    {Mayorov}, Nikolay and
+    {Nelson}, Andrew R.~J. and
+    {Jones}, Eric and
+    {Kern}, Robert and
+    {Larson}, Eric and
+    {Carey}, CJ and
+    {Polat}, {\.I}lhan and
+    {Feng}, Yu and
+    {Moore}, Eric W. and
+    {VanderPlas}, Jake and
+    {Laxalde}, Denis and
+    {Perktold}, Josef and
+    {Cimrman}, Robert and
+    {Henriksen}, Ian and
+    {Quintero}, E.~A. and
+    {Harris}, Charles R and
+    {Archibald}, Anne M. and
+    {Ribeiro}, Ant{\^o}nio H. and
+    {Pedregosa}, Fabian and
+    {van Mulbregt}, Paul and
+    {Contributors}, SciPy 1.0
+  },
+  title="{SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python}",
+  journal={Nature Methods},
+  year="2020",
+  adsurl={https://rdcu.be/b08Wh},
+  doi={https://doi.org/10.1038/s41592-019-0686-2},
 }
 ```
 
