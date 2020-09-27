@@ -191,17 +191,22 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ### NumPy BibTeX citation
 
 ```bibtex
-@misc{numpy,
-  author={Travis Oliphant},
-  title={{NumPy}: A guide to {NumPy}},
-  year={2006--},
-  howpublished={USA: Trelgol Publishing},
-  url="http://www.numpy.org/",
-  note={[Online; accessed <today>]}
+@article{numpy,
+  author = {Harris, Charles R and Millman, K Jarrod and van der Walt, St{\'{e}}fan J and Gommers, Ralf and Virtanen, Pauli and Cournapeau, David and Wieser, Eric and Taylor, Julian and Berg, Sebastian and Smith, Nathaniel J and Kern, Robert and Picus, Matti and Hoyer, Stephan and van Kerkwijk, Marten H and Brett, Matthew and Haldane, Allan and del R{\'{i}}o, Jaime Fern{\'{a}}ndez and Wiebe, Mark and Peterson, Pearu and G{\'{e}}rard-Marchant, Pierre and Sheppard, Kevin and Reddy, Tyler and Weckesser, Warren and Abbasi, Hameer and Gohlke, Christoph and Oliphant, Travis E},
+  doi = {10.1038/s41586-020-2649-2},
+  issn = {1476-4687},
+  journal = {Nature},
+  number = {7825},
+  pages = {357--362},
+  title = {{Array programming with NumPy}},
+  url = {https://doi.org/10.1038/s41586-020-2649-2},
+  volume = {585},
+  year = {2020}
 }
+
 ```
 
-([source](https://www.scipy.org/citing.html))
+([source](https://twitter.com/numpy_team/status/1306268442450972674))
 
 ### OpenCV BibTeX citation
 
