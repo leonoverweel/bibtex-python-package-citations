@@ -71,7 +71,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
 
 ### fastai BibTeX citation
 
-```
+```bibtex
 @misc{fastai,
   author={
     Howard, Jeremy
@@ -134,8 +134,7 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   journal={Journal of Open Source Software}
 }
 ```
-
-([Source](https://larq.dev/faq/#how-can-i-cite-larq))
+([source](https://larq.dev/faq/#how-can-i-cite-larq))
 
 ### Matplotlib BibTeX citation
 
@@ -151,7 +150,6 @@ Packages are listed alphabetically. If this list grows too long, maybe we can ad
   publisher={IEEE Computer Society}
 }
 ```
-
 ([source](https://www.scipy.org/citing.html))
 
 See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.html))
@@ -172,7 +170,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   url={http://joss.theoj.org/papers/10.21105/joss.00638}
 }
 ```
-
 ([source](http://rasbt.github.io/mlxtend/))
 
 ### NLTK BibTeX citation
@@ -185,7 +182,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   publisher={O'Reilly Media Inc.}
 }
 ```
-
 ([source](https://www.nltk.org/))
 
 ### NumPy BibTeX citation
@@ -203,9 +199,7 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   volume = {585},
   year = {2020}
 }
-
 ```
-
 ([source](https://twitter.com/numpy_team/status/1306268442450972674))
 
 ### OpenCV BibTeX citation
@@ -222,7 +216,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   year={2000}
 }
 ```
-
 ([source](https://github.com/opencv/opencv/wiki/CiteOpenCV))
 
 ### Pandas BibTeX citation
@@ -237,7 +230,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   editor={St\'efan van der Walt and Jarrod Millman}
 }
 ```
-
 ([source](https://pandas.pydata.org/talks.html))
 
 ### PyTorch BibTeX citation
@@ -250,7 +242,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   year={2017}
 }
 ```
-
 ([source](https://github.com/pytorch/pytorch/blob/master/CITATION))
 
 ### scikit-learn BibTeX citation
@@ -282,7 +273,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   year={2011}
 }
 ```
-
 ([source](https://scikit-learn.org/stable/about.html))
 
 ### SciPy BibTeX citation
@@ -333,7 +323,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   doi={https://doi.org/10.1038/s41592-019-0686-2},
 }
 ```
-
 ([source](https://www.scipy.org/citing.html))
 
 ### TensorFlow BibTeX citation
@@ -388,7 +377,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   year={2015},
 }
 ```
-
 ([source](https://www.tensorflow.org/about/bib))
 
 ### Theano BibTeX citation
@@ -406,7 +394,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   url={http://arxiv.org/abs/1605.02688},
 }
 ```
-
 ([source](http://deeplearning.net/software/theano/citation.html))
 
 ### Torchbearer BibTeX citation
@@ -419,7 +406,6 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
   year={2018}
 }
 ```
-
 ([source](https://github.com/leonoverweel/bibtex-python-package-citations/issues/1))
 
 
