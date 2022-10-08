@@ -408,6 +408,21 @@ See also: ([DOIs per version of Matplotlib](https://matplotlib.org/3.1.0/citing.
 ```
 ([source](https://github.com/leonoverweel/bibtex-python-package-citations/issues/1))
 
+### Imbalanced-learn BibTex citation
+
+```
+@article{imbalanced-learn,
+author  = {Guillaume  Lema{{\^i}}tre and Fernando Nogueira and Christos K. Aridas},
+title   = {Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning},
+journal = {Journal of Machine Learning Research},
+year    = {2017},
+volume  = {18},
+number  = {17},
+pages   = {1-5},
+url     = {http://jmlr.org/papers/v18/16-365.html}
+}
+```
+([source](https://imbalanced-learn.org/stable/about.html#citing-imbalanced-learn))
 
 # Acknowledgements
 
